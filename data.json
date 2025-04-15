@@ -1,0 +1,35 @@
+{
+    "clubs": [
+      {
+        "title": "Cultural Club",
+        "image": "https://www.fundayout.com.au/wp-content/uploads/2017/08/culture-club-shutterstock.jpg",
+        "description": "A club that celebrates and promotes diverse cultural activities."
+      },
+      {
+        "title": "Gaming Club",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpp7TgO88ukyI19kpREtYQP4zmTpNsF9Yxmg&s",
+        "description": "A community for gamers to connect, compete, and share gaming experiences."
+      },
+      {
+        "title": "Programming Club",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg5EEXuU6X4dFaJmzuTss8KEeiZezz81UtGhioKa2m26lMHh12s5ySveqx9R-taaVtrRU&usqp=CAU",
+        "description": "A hub for coding enthusiasts to collaborate on projects and learn new technologies."
+      },
+      {
+        "title": "Art Club",
+        "image": "https://northbristolartists.org.uk/wp-content/uploads/2023/03/Artclub.jpg",
+        "description": "A creative space for artists to express themselves and showcase their artwork."
+      },
+      {
+        "title": "Sport Club",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNpzDY3Wvj0V2RbFasTeHCvqSn9mD2OlS2lQ&s",
+        "description": "A club dedicated to promoting fitness and sports activities among members."
+      },
+      {
+        "title": "Drama Club",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNpzDY3Wvj0V2RbFasTeHCvqSn9mD2OlS2lQ&s",
+        "description": "A club dedicated to promoting fitness and sports activities among members."
+      }
+    ]
+  }
+  

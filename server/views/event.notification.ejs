@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Event Notification</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 20px;
+        background-color: #f7f7f7;
+      }
+      .container {
+        max-width: 600px;
+        margin: 0 auto;
+        padding: 20px;
+        background-color: #fff;
+        border: 1px solid #ddd;
+        border-radius: 8px;
+        box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+      }
+      h1 {
+        color: #333;
+      }
+      p {
+        color: #555;
+      }
+      .button {
+        background-color: #4caf50;
+        color: white;
+        padding: 10px 20px;
+        text-align: center;
+        border-radius: 4px;
+        text-decoration: none;
+        font-weight: bold;
+        display: inline-block;
+        margin-top: 20px;
+      }
+      .footer {
+        margin-top: 30px;
+        font-size: 12px;
+        text-align: center;
+        color: #888;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h1>Event Notification</h1>
+      <p><b>Event:</b> <%= eventName %></p>
+      <p><b>Name:</b> <%= userName %></p>
+      <p><b>Confirmation Email:</b> <%= userEmail %></p>
+      <a href="<%= confirmationLink %>" class="button">Confirm Attendance</a>
+      <div class="footer">
+        <p>If you did not register for this event, please ignore this email.</p>
+      </div>
+    </div>
+  </body>
+</html>
